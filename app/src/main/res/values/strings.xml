@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LostAndFound</string>
+    <string name="crime_title_hint">Enter The Items</string>
+    <string name="crime_title_label">Intens</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Found</string>
+    <string name="crime_date_label">Date</string>
+    <string name="new_crime">New Items</string>
+    <string name="crime_suspect_text">Potential Owner</string>
+    <string name="crime_report_text">Send The Report</string>
+    <string name="crime_report">%1$s!The Item was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The Item is Found</string>
+    <string name="crime_report_unsolved">The Item is not Found yet</string>
+    <string name="crime_report_no_suspect">there is no Potential Owner.</string>
+    <string name="crime_report_suspect">the Potential Owner is %s.</string>
+    <string name="crime_report_subject">Lost And Found Items Report</string>
+    <string name="send_report">Send Items report via</string>
+
+</resources>
