@@ -23,7 +23,7 @@ class CrimeDetailViewModel () : ViewModel(){
 
     fun saveCrime(crime: Crime){
         crimeRepository.updateCrime(crime)
-    }
+    } 
 
     fun getPhotoFile(crime: Crime) : File {
         return crimeRepository.getPhotoFile(crime)
